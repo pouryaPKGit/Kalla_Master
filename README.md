@@ -55,6 +55,16 @@ About Us :
 
 ![Screenshot (180)](https://github.com/user-attachments/assets/a7fb25e7-a5a6-4294-b590-3d023ca2245e)
 
+products details : 
+
+![Screenshot (239)](https://github.com/user-attachments/assets/ce27112b-2da4-4bc6-83d1-64b897646e1a)
+
+![Screenshot (240)](https://github.com/user-attachments/assets/e3df7519-059b-41b7-b97d-f19838146a2e)
+
+![Screenshot (242)](https://github.com/user-attachments/assets/22035b17-d707-4cb6-ba4c-ea62536691c8)
+
+![Screenshot (241)](https://github.com/user-attachments/assets/4335f068-c247-4cdf-aa56-1c0889ec54f4)
+
 
 navbar menus : 
 
