@@ -65,7 +65,7 @@ const MainFooterSection = () => {
       </div>
     </div>
     <div className="bg-[#2c3346] h-[60px] text-md text-white flex items-center justify-center">
-        <p className="text-blue-500">| Developede By : Pourya Pourkhani |</p>
+        <p className="text-blue-500">| Developed By : Pourya Pourkhani |</p>
     </div>
     </>
   )
